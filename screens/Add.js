@@ -1,4 +1,3 @@
-// screens/Add.js
 import React, { useState } from 'react';
 import { View, TextInput, Button, Modal, StyleSheet } from 'react-native';
 
